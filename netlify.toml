@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "https://github.com/:splat"
+to = "https://archiveofourown.org/:splat"
 status = 200
 force = false
-headers = {Host = "github.com", X-Forwarded-Host = "github.com"}
+headers = {Host = "archiveofourown.org", X-Forwarded-Host = "archiveofourown.org"}
